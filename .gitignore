@@ -1,0 +1,26 @@
+# Archivos generados por Python
+__pycache__/
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de registro y salida
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración locales
+*.sqlite3
+*.swp
+*.swo
+
+# Carpeta de construcción
+build/
+dist/
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
